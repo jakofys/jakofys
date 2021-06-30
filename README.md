@@ -2,4 +2,4 @@
 
 ![Jakofys's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakofys&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=jakofys&layout=compact)](https://github.com/jakofys/github-readme-stats))
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jakofys)](https://github.com/jakofys/github-readme-stats)
