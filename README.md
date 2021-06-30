@@ -2,4 +2,4 @@
 
 ![Jakofys's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakofys&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakofys)](https://github.com/jakofys/github-readme-stats)
